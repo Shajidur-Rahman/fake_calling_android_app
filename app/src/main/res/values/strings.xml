@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FakeCalling</string>
+    <string name="sim_2_calling">2</string>
+    <string name="calling">Calling...</string>
+    <string name="emer">Emergency Call</string>
+    <string name="sumtom">Custom</string>
+    <string name="emer_number">999</string>
+    <string name="Add_call">999</string>
+    <string name="Holdcall">999</string>
+    <string name="Bluetooth">999</string>
+    <string name="Speaker">999</string>
+    <string name="Mute">999</string>
+    <string name="Keypad">999</string>
+</resources>
